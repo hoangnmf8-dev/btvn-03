@@ -1,3 +1,7 @@
+ul {
+  font-size: 2em;
+}
+
 #first-list {
   list-style-type: circle;
 }

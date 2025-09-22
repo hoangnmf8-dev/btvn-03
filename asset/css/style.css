@@ -1,0 +1,18 @@
+a {
+  display: inline-block;
+  color: #000;
+  background-color: rgb(238, 183, 144);
+  padding: 8px 16px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  width: 30px;
+  text-align: center;
+  transition: all .15s ease;
+}
+
+a:hover {
+  background-color: #9be20b;
+  color: #fff;
+}
+
+ 
