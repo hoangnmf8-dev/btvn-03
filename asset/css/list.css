@@ -1,0 +1,15 @@
+#first-list {
+  list-style-type: circle;
+}
+
+#second-list {
+  list-style-type: square;
+}
+
+#third-list li {
+  list-style: none;
+}
+
+#third-list li::before {
+  content: "\1F60A";
+}
